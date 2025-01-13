@@ -21,13 +21,17 @@
 ## Övningar
 * [Objekt](https://github.com/Lexicon-frontend-2024-2025/exercise-js-objects-bootcamp)
 * [Listor](https://github.com/Lexicon-frontend-2024-2025/exercise-array-bootcamp)
+* Extra - Bra övningar i olika svårigheter för att öva js [JSchallenger](https://www.jschallenger.com/)
+* Extra - Massor av olika övningar från W3 Schools [W3 Javascript Excercises](https://www.w3schools.com/js/js_exercises.asp)
+* Extra - En hel kurs i js på 30 dagar [30 days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master)
+
 
 ## Slides
 
 ## Lektioner
 ##### Med tillhörande repon
-* **Måndag** - Arrayer ( push, pop, splice, .length, loopa igenom )
-* **[Tisdag]()** - DOM, hämta, modifiera element och skapa element.Objekt (ev. Math, window )
-* **[Onsdag]()** - DOM, mer modifiering av element inklusive styling
-* **[Torsdag]()** - Events, Event handling, default behavior
+* **Måndag** - Arrayer ( push, pop, splice, .length, loopa igenom ), Objekt
+* **[Tisdag]()** - DOM, hämta, modifiera element och skapa element.
+* **[Onsdag]()** - Events, Event handling, default behavior
+* **[Torsdag]()** - 
 * **[Fredag]()** - Repetition, arbeta med inlämningsuppgift
