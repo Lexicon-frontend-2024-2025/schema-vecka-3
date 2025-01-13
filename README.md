@@ -31,7 +31,7 @@
 ## Lektioner
 ##### Med tillhörande repon
 * **Måndag** - Arrayer ( push, pop, splice, .length, loopa igenom )
-* **[Tisdag]()** - Objekt, inbyggda objekt
+* **[Tisdag]()** - Objekt, inbyggda objekt (ev JSON)
 * **[Onsdag]()** - DOM, hämta, modifiera element och skapa element.
 * **[Torsdag]()** - Events, Event handling, default behavior (ev forms om vi hinner)
 * **[Fredag]()** - Repetition, arbeta med inlämningsuppgift
