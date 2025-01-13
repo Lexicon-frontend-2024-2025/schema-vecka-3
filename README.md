@@ -27,7 +27,7 @@
 ## Lektioner
 ##### Med tillhörande repon
 * **Måndag** - Arrayer ( push, pop, splice, .length, loopa igenom )
-* **[Tisdag]()** - Objekt, Inbyggda Objekt ( ex. Math, window )
-* **[Onsdag]()** - DOM, hämta, modifiera element och skapa element.
-* **[Torsdag]()** - DOM, mer modifiering av element inklusive styling
+* **[Tisdag]()** - DOM, hämta, modifiera element och skapa element.Objekt (ev. Math, window )
+* **[Onsdag]()** - DOM, mer modifiering av element inklusive styling
+* **[Torsdag]()** - Events, Event handling, default behavior
 * **[Fredag]()** - Repetition, arbeta med inlämningsuppgift
