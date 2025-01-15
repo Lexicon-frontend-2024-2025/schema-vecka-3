@@ -27,6 +27,7 @@
 
 
 ## Slides
+[Event](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit?usp=sharing)
 
 ## Lektioner
 ##### Med tillhörande repon
