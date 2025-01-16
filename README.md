@@ -1,7 +1,7 @@
 # schema-vecka-3
 Övergripande schema över veckan
 
-###### Javascript, vecka 3 av 4
+###### Javascript, vecka 2 av 4
 
 ## Mål för veckan
 1. Förstå och kunna använda arrays och objekt i js
