@@ -25,6 +25,8 @@
 * Extra - Massor av olika övningar från W3 Schools [W3 Javascript Excercises](https://www.w3schools.com/js/js_exercises.asp)
 * Extra - En hel kurs i js på 30 dagar [30 days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master)
 
+## Projekt
+* [Bucket List](https://github.com/Lexicon-frontend-2024-2025/projekt-bucket-list/tree/main)
 
 ## Slides
 [Event](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit?usp=sharing)
