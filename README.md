@@ -34,7 +34,7 @@
 ## Lektioner
 ##### Med tillhörande repon
 * **Måndag** - Arrayer ( push, pop, splice, .length, loopa igenom )
-* **[Tisdag]()** - Objekt, inbyggda objekt (ev JSON)
-* **[Onsdag]()** - DOM, hämta, modifiera element och skapa element.
-* **[Torsdag]()** - Events, Event handling, default behavior (ev forms om vi hinner)
+* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-14-jan)** - Objekt, inbyggda objekt (ev JSON)
+* **[Onsdag](https://github.com/Lexicon-frontend-2024-2025/lektion-15-jan)** - DOM, hämta, modifiera element och skapa element.
+* **[Torsdag](https://github.com/Lexicon-frontend-2024-2025/lektion-16-jan)** - Events, Event handling, default behavior (ev forms om vi hinner)
 * **[Fredag]()** - Repetition, arbeta med inlämningsuppgift
