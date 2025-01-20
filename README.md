@@ -29,7 +29,9 @@
 * [Bucket List](https://github.com/Lexicon-frontend-2024-2025/projekt-bucket-list/tree/main)
 
 ## Slides
-[Event](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit?usp=sharing)
+* [Event](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit?usp=sharing)
+* [Objekt](https://docs.google.com/presentation/d/1q_XG3pYQTUB43uBOA42eJwTeH5Vk3pcGcCxUoUyjGeI/edit?usp=sharing)
+* [DOM-manipulation](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit?usp=sharing)
 
 ## Lektioner
 ##### Med tillhörande repon
